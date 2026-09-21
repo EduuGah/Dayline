@@ -1,0 +1,7 @@
+{
+  "name": "Dayline",
+  "description": "Agenda pessoal focada em linha do tempo diária em tempo real, recorrências e rapidez de uso.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
